@@ -1,7 +1,7 @@
-﻿<Application x:Class="RBGroup_Example.App"
+﻿<Application x:Class="WPF_Controls_RBGroup_Ex.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:RBGroup_Example"
+             xmlns:local="clr-namespace:WPF_Controls_RBGroup_Ex"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

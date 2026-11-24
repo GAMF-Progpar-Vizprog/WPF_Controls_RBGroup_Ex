@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Media;
 
-namespace RBGroup_Example
+namespace WPF_Controls_RBGroup_Ex
 {
 	public partial class MainWindow : Window
   {
